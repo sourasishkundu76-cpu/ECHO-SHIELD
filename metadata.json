@@ -1,0 +1,8 @@
+{
+  "name": "ECHO-SHIELD: Ultrasonic Railway Track Obstacle Detection",
+  "description": "Detecting Obstacles Through the Physics of Sound. Interactive 3D visualization, virtual Physics laboratory, and digital companion for first-year B.Tech engineering physics prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
